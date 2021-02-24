@@ -1,0 +1,10 @@
+{
+  "baseName" : "",
+  "deployModel" : "propxy",
+  "config": [
+    {
+      "name": "企业绩效管理系统",
+      "urlHost": "http://localhost:8080/epms"
+    }
+  ]
+}
